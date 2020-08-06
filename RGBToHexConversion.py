@@ -51,7 +51,9 @@ def rgb(r, g, b):
 print(rgb(0,0,0))
 print(rgb(255,255,255))
 
-# Best Practice on CodeWars (not my solution)
+
+
+# Best Practice on CodeWars, not my solution, I wish it was because it seems so condense and clever ;)
 
 ##def rgb(r, g, b):
 ##    round = lambda x: min(255, max(x, 0))
